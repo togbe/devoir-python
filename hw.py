@@ -1,3 +1,3 @@
 __author__ = 'togbe'
 print("hello world !!!")
-print("hi my friend ?")
+print("how are you ?")
